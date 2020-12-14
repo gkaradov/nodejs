@@ -1,0 +1,27 @@
+{
+  "name": "awserver",
+  "version": "1.0.0",
+  "description": "awgeoqueries",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkaradov/awtest.git"
+  },
+  "keywords": [
+    "gis",
+    "query"
+  ],
+  "author": "gk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkaradov/awtest/issues"
+  },
+  "homepage": "https://github.com/gkaradov/awtest#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1"
+  }
+}
