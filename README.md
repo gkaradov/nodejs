@@ -1,5 +1,12 @@
 # nodejs  
 
+## /geospatildata
+contains the script to create table of lacations and table for loging  - awtest.sql
+
+PostgreSQl need to have PostGIS installed. Check /geospatildata/images/
+
+
+
 
 ## /awserver  contains the server part of the project.  It is working
 
