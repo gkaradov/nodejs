@@ -6,9 +6,13 @@
 end points available are :
 
 "/"
+
 "/help"
+
 "/getall"
+
 "/gisquery/:x/:y/:distance"
+
 "/logdata/:userid/:logdata"
 
 ### /getall   
