@@ -14,7 +14,7 @@ end points available are :
 ### /getall   
 Gets all locations in the databse
 
-###/ /gisquery/:x/:y/:distance
+### /gisquery/:x/:y/:distance
 Returns the location with distance greater than the provided parameter.  The x,y coordinates must be in Lat long
 x range: -180 to 180  radians
 y range: -90 to 90 radians
