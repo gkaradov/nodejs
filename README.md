@@ -35,3 +35,7 @@ test call; http://localhost:8080/gisquery/-79.74017030232889/43.77898984966451/3
 ### /logdata/:userid/:logdata
 inserts log entry in a json format - can be any json
 test call:   http://localhost:8080/logdata/43.5/%7B%22name%22:%22mark%22,%22age%22:43%7D
+
+### \awapp
+Will hold the app.  Still work in progress.
+
